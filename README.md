@@ -1,11 +1,16 @@
 # Production Log Skill
 
+[![Python tests](https://github.com/bawooboard/production-log-skill/actions/workflows/python.yml/badge.svg)](https://github.com/bawooboard/production-log-skill/actions/workflows/python.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
+
 생산 현장의 **품목, 수량, 양품, 불량** 정보를 관리하고, 생산일보를 출력할 수 있는 오픈소스 Python 스킬과 테스트 하네스입니다.
 
 - Version: 1.0.0
 - Python: 3.9+
 - License: MIT
 - Storage: CSV
+- Repository: <https://github.com/bawooboard/production-log-skill>
 
 ---
 
