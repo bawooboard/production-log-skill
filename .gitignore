@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local data
+production_log.csv
+data/*.csv
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Local agent/tooling state
+.omc/
+.bkit/
