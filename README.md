@@ -1,5 +1,6 @@
 # Production Log Skill
 
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](CHANGELOG.md)
 [![Python tests](https://github.com/bawooboard/production-log-skill/actions/workflows/python.yml/badge.svg)](https://github.com/bawooboard/production-log-skill/actions/workflows/python.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
@@ -571,7 +572,22 @@ $ production-log report --date 2026-07-09
 
 ---
 
-## 15. Contributing
+## 15. 버전 정보
+
+- 현재 버전: **v1.0.0**
+- 버전 관리: [Semantic Versioning](https://semver.org/lang/ko/) (MAJOR.MINOR.PATCH)
+- 전체 변경 이력은 [CHANGELOG.md](CHANGELOG.md)에서 확인할 수 있습니다.
+
+### v1.0.0
+
+- 생산일지 등록 / 조회 기능
+- 품목별 집계 및 생산일보 출력
+- CSV 저장소, CLI, Python API
+- 테스트 하네스 및 pytest 테스트
+
+---
+
+## 16. Contributing
 
 Pull Request를 환영합니다.
 
@@ -583,6 +599,6 @@ Pull Request를 환영합니다.
 
 ---
 
-## 16. License
+## 17. License
 
 MIT License
